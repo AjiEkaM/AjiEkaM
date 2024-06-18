@@ -1,6 +1,7 @@
 ![banner](https://github.com/azyys01/azyys01/blob/main/assets/illustration-anime-character-rain.jpg)
 
 <h1 align="center">Hi 👋, I'm Azyys</h1>
+<p align="center">open collab now!!</p>
 <div align="center"><img width="100" src="https://github.com/azyys01/azyys01/blob/main/assets/profile.gif" /></div>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
 <hr>
@@ -12,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **<a href="https://azyys01.github.io/Testing-Web/">Here</a>**
 
-- 💬 Ask me about **All things frontend.**
+- 💬 Ask me about **All things programming.**
 
 - 📫 Reach me **<a href="mailto:ajiekamulyana3012@gmail.com">Here</a>**
 
@@ -27,6 +28,11 @@
 |React|Tailwind|Laravel|
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="55" height="55"> 
+
+# Database:
+|Mysql|
+|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55">
 
 ### Connect Me With:
 <p align="left">
