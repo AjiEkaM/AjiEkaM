@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-## About Me
+### About Me
 
 - 🌱 I’m currently learning **Java ☕**
 
@@ -14,13 +14,7 @@
 
 - 📫 Reach me **<a href="mailto:ajiekamulyana3012@gmail.com">Here</a>**
 
-- ⚡ Fun fact **I want to be a reliable fullstack.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/azyys ♪" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azyys ♪" height="30" width="40" /></a>
-<a href="https://instagram.com/ajiekamu dilyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajiekamulyana" height="30" width="40" /></a>
-</p>
+- ⚡ **I want to be a reliable fullstack.**
 
 ### Languages:
 | JS | TS | PHP |
@@ -32,4 +26,12 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="55" height="55"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azyys01&label=Profile%20views&color=0e75b6&style=flat" alt="azyys01" /> </p>
+### Connect Me With:
+<p align="left">
+<a href="https://fb.com/azyys ♪" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azyys ♪" height="30" width="40" /></a>
+<a href="https://instagram.com/ajiekamu dilyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajiekamulyana" height="30" width="40" /></a>
+</p>
+
+<br><br>
+
+<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=azyys01&label=Profile%20views&color=orange&style=flat" alt="azyys01" /> </p>
