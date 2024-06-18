@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azyys</h1>
 <div align="center"><img width="100" src="https://github.com/azyys01/azyys01/blob/main/0548dd4afa665874c0c568fe5c189bda.gif" /></div>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
-
-
+<img width="100%" height="100" src="https://github.com/azyys01/azyys01/blob/main/92874900188838771.png">
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azyys01&label=Profile%20views&color=0e75b6&style=flat" alt="azyys01" /> </p>
 
 - 🌱 I’m currently learning **Java ☕**
