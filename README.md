@@ -34,4 +34,9 @@
 
 <br><br>
 
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azyys01&theme=dark" alt="azyys01" /></p></div>
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azyys01&show_icons=true&locale=en&theme=dark" alt="azyys01" /></p></div>
+
+<br><hr>
+
 <p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=azyys01&label=Profile%20views&color=orange&style=flat" alt="azyys01" /> </p>
