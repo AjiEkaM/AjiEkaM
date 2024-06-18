@@ -29,7 +29,7 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="55" height="55"> 
 
-# Database:
+### Database:
 |Mysql|
 |----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55">
