@@ -47,4 +47,5 @@
 
 <br><hr>
 
+![2ndBanner](https://github.com/azyys01/azyys01/blob/main/assets/banner%20miku.gif)
 <p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=azyys01&label=Profile%20views&color=orange&style=flat" alt="azyys01" /> </p>
