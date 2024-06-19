@@ -1,9 +1,9 @@
 ![banner](https://github.com/azyys01/azyys01/blob/main/assets/illustration-anime-character-rain.jpg)
 
 <h1 align="center">Hi 👋, I'm Azyys</h1>
-<p align="center">open collab now!!</p>
-<div align="center"><img width="100" src="https://github.com/azyys01/azyys01/blob/main/assets/profile.gif" /></div>
+<div align="center"><img width="150" src="https://github.com/azyys01/azyys01/blob/main/assets/profile.gif" /></div>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
+<div align="center"><img src="https://github.com/azyys01/azyys01/blob/main/assets/status%20on.gif" width="130"></div>
 <hr>
 <br>
 
