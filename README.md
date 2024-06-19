@@ -1,4 +1,4 @@
-![banner](https://github.com/azyys01/azyys01/blob/main/assets/banner%20miku.gif)
+![banner](https://github.com/azyys01/azyys01/blob/main/assets/illustration-anime-character-rain.jpg)
 
 <h1 align="center">Hi 👋, I'm Azyys</h1>
 <div align="center"><img width="150" src="https://github.com/azyys01/azyys01/blob/main/assets/profile.gif" /></div>
