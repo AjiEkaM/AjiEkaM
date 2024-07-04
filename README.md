@@ -1,9 +1,9 @@
-![banner](https://github.com/azyys01/azyys01/blob/main/assets/illustration-anime-character-rain.jpg)
+![banner](https://github.com/AjiEkaM/AjiEkaM/blob/main/assets/illustration-anime-character-rain.jpg)
 
 <h1 align="center">Hi 👋, I'm Aji</h1>
-<div align="center"><img width="150" src="https://github.com/azyys01/azyys01/blob/main/assets/profile.gif" /></div>
+<div align="center"><img width="150" src="https://github.com/AjiEkaM/AjiEkaM/blob/main/assets/profile.gif" /></div>
 <h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
-<div align="center"><img src="https://github.com/azyys01/azyys01/blob/main/assets/status%20on.gif" width="130"></div>
+<div align="center"><img src="https://github.com/AjiEkaM/AjiEkaM/blob/main/assets/status%20on.gif" width="130"></div>
 <hr>
 <br>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java ☕**
 
-- 👨‍💻 All of my projects are available at **<a href="https://azyys01.github.io/Testing-Web/">Here</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://AjiEkaM.github.io/Testing-Web/">Here</a>**
 
 - 💬 Ask me about **All things programming.**
 
@@ -36,16 +36,16 @@
 
 ### Connect Me With:
 <p align="left">
-<a href="https://fb.com/azyys ♪" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azyys ♪" height="30" width="40" /></a>
+<a href="1https://www.facebook.com/profile.php?id=100057977348271&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AjiEkaM" height="30" width="40" /></a>
 <a href="https://instagram.com/ajiekamu dilyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajiekamulyana" height="30" width="40" /></a>
 </p>
 
 <br><br>
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azyys01&theme=dark" alt="azyys01" /></p></div>
-<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azyys01&show_icons=true&locale=en&theme=dark" alt="azyys01" /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjiEkaM&theme=dark" alt="AjiEkaM" /></p></div>
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjiEkaM&show_icons=true&locale=en&theme=dark" alt="AjiEkaM" /></p></div>
 
 <br><hr>
 
-![2ndBanner](https://github.com/azyys01/azyys01/blob/main/assets/banner%20miku.gif)
-<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=azyys01&label=Profile%20views&color=orange&style=flat" alt="azyys01" /> </p>
+![2ndBanner](https://github.com/AjiEkaM/AjiEkaM/blob/main/assets/banner%20miku.gif)
+<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=AjiEkaM&label=Profile%20views&color=orange&style=flat" alt="AjiEkaM" /> </p>
