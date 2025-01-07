@@ -49,3 +49,5 @@
 
 ![2ndBanner](https://github.com/AjiEkaM/AjiEkaM/blob/main/assets/banner%20miku.gif)
 <p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=AjiEkaM&label=Profile%20views&color=orange&style=flat" alt="AjiEkaM" /> </p>
+
+ok
